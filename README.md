@@ -9,3 +9,4 @@ Este bot clica automaticamente no botão de "aceitar" partida na fila de espera 
 - Para interromper o bot aperte a tecla "m".
 - Tire um print da sua tela quando o botão de aceitar aparecer, em seguida recorte apenas a parte que contem o nome aceitar e substitua a imagem "aceitar.png" na mesma pasta onde fica o script, isso evita que o script não reconheça a imagem devido diferenças no tamanho de monitores. 
 
+![bot-lol-aceitar](https://github.com/AlissonAnjosGit/Assets/blob/main/bot-lol/bot-lol-aceitar.png)
